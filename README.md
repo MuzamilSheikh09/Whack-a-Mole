@@ -1,8 +1,9 @@
 # Whack-a-Mole Game
 ## Overview
 
-The Whack-a-Mole game is a fun and interactive web-based game created using HTML, CSS, and JavaScript. The objective of the game is to hit as many moles as possible. Players score points by clicking on the moles as they appear, and the game keeps track of the score and time remaining.
-Features
+The Whack-a-Mole game is a fun and interactive web-based game created using HTML, CSS, and JavaScript. The objective of the game is to hit as many moles as possible. Players score points by clicking on the moles as they appear.
+
+## Features
 
 -    Interactive Gameplay: Players can click on moles that pop up randomly on the screen.
 -    Score Tracking: The game displays the player's current score and updates it in real-time.
